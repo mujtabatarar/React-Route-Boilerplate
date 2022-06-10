@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.nav{
+  background-color: cadetblue;
+  padding: 16px;
+  margin: auto;
+}
+
+nav a{
+  padding: 16px;
+}
+
+nav a.active {
+  text-decoration: none;
+  font-weight: bold;
+}
+.home{
+  text-align: center;
+  padding-top: 30%;
+  text-decoration:dotted;
+  
+}
+.search-bar{
+  padding: 20px;
+}
+
+.single-option{
+  background-color: darkgray;
+  padding: 30px;
+}
